@@ -61,7 +61,7 @@ admin.on('connect', (socket) => {
 const RedisGraph = require('redisgraph.js').Graph;
 // TODO options nedds to be dynamic
 const options = {
-  host: 'redis-11939.c60.us-west-1-2.ec2.cloud.redislabs.com',
+  host: process.env.REDIS_URL,
   port: 11939,
   password: '7B3DId42aDCtMjmSXg7VN0XZSMOItGAG',
 };
