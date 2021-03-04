@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.8a91c3f288660fa283c7e6fb7fc48b8b.js"
+  "/precache-manifest.53f2e14db7ffd9dd1132198fab2ebfd5.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "lct-b"});
