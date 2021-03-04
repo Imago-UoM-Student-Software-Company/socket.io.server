@@ -3,16 +3,325 @@
     {
       "CODE": 1,
       "NAME": "BUILDING",
-      "ID": "Kilburn Building",
-      "PROPERTY ADDRESS": "Manchester M13 9PL",
-      "CITY LIMIT\r": "INSIDE\r"
-    },
-    {
+      "ID":"Alan Turing Building",
+      "rooms": ["G107","G108","G109","G110","G111","G112","G113","G114","G205","G207","G209"],
+      "position": {
+              "lat": 53.4680544,
+              "lng": -2.2315985
+        }
+      },
+      {
       "CODE": 2,
-      "NAME": "BULDING",
-      "ID": "University Place",
-      "PROPERTY ADDRESS": "Manchester M13 9PL",
-      "CITY LIMIT\r": "INSIDE\r"
+      "NAME": "BUILDING",
+      "ID":"Barnes Wallis",
+      "rooms": ["C.001","Refectory"],
+      "position": {
+              "lat": 53.4752035,
+              "lng": -2.2319978
+        }
+      },
+      {
+      "CODE": 3,
+      "NAME": "BUILDING",
+      "ID":"Beyer Building",
+      "rooms": ["Beyer Lecture Theatre"],
+      "position": {
+              "lat": 53.4658153,
+              "lng": -2.2343883
+        }
+      },
+      {
+      "CODE": 4,
+      "NAME": "BUILDING",
+      "ID":"Chemistry Building",
+      "rooms": ["G51","G53","G54","G08"],
+      "position": {
+              "lat": 53.4663868,
+              "lng": -2.2296792
+        }
+      },   
+      {
+      "CODE": 5,
+      "NAME": "BUILDING",
+      "ID":"Coupland 3 Building",
+      "rooms": ["Theatre A","Theatre B"],
+      "position": {
+              "lat": 53.4652194,
+              "lng": -2.2362414
+        }
+      },
+      {
+      "CODE": 6,
+      "NAME": "BUILDING",
+      "ID":"Crawford House",
+      "rooms": ["Theatre 1","Theatre 2","Seminar Room A","Seminar Room B","Seminar Room C","Seminar Room D","Seminar Room E"],
+      "position": {
+              "lat": 53.4684263, 
+              "lng": -2.2349086
+        }
+      },
+      {
+      "CODE": 7,
+      "NAME": "BUILDING",
+      "ID":"Dover Street Building",
+      "rooms": ["B16","B17","1.005","1.035","1.037"],
+      "position": {
+              "lat": 53.4654833, 
+              "lng": -2.2305590
+        }
+      },     
+      {
+      "CODE": 8,
+      "NAME": "BUILDING",
+      "ID":"Ellen Wilkinson Building",
+      "rooms": ["A2.16","A2.6","A2.7","A3.6","A3.7","B2.4","C5.1"],
+      "position": {
+              "lat": 53.4633993,
+              "lng":  -2.2324500
+        }
+      },
+      {
+      "CODE": 9,
+      "NAME": "BUILDING",
+      "ID":"George Begg Building",
+      "rooms": ["C.001","C.002","C.003","C.005"],
+      "position": {
+              "lat": 53.4732124, 
+              "lng": -2.2351231
+        }
+      },
+      {
+      "CODE": 10,
+      "NAME": "BUILDING",
+      "ID":"Humanities Bridgeford Street Building",
+      "rooms": ["Cordingley Lecture Theatre","G6","G7","G32","G33","G34","G35","Hanson Room"],
+      "position": {
+              "lat": 53.4661483,
+              "lng": -2.2366412
+        }
+      },
+      {
+      "CODE": 11,
+      "NAME": "BUILDING",
+      "ID":"James Chadwick",
+      "rooms": ["3.008","3.009","3.010"],
+      "position": {
+              "lat": 53.4695529,
+              "lng": -2.2333853
+        }
+      },
+      {
+      "CODE": 12,
+      "NAME": "BUILDING",
+      "ID":"John Owens Building",
+      "rooms": ["Ken Kitchen Committee Room"],
+      "position": {
+              "lat": 53.4654249,
+              "lng": -2.2344481
+        }
+      },
+      {
+      "CODE": 13,
+      "NAME": "BUILDING",
+      "ID":"Kilburn Building",
+      "rooms": ["1.1","1.3","1.4","1.5"],
+      "position": {
+              "lat": 53.467249,
+              "lng": -2.234202
+        }
+      },
+      {
+      "CODE": 14,
+      "NAME": "BUILDING",
+      "ID":"Mansfield Cooper Building",
+      "rooms": ["G19","G20","G21","G22","1.02","2.02","2.03","2.04","2.05","2.14","2.19","3.01","3.22","4.05","4.08","4.10"],
+      "position": {
+              "lat": 53.4634485, 
+              "lng": -2.2345833
+        }
+      },
+      {
+      "CODE": 15,
+      "NAME": "BUILDING",
+      "ID":"Martin Harris Centre",
+      "rooms": ["John Casken Lecture Theatre"],
+      "position": {
+              "lat": 53.4680544,
+              "lng": -2.2315985
+        }
+      },
+      {
+      "CODE": 16,
+      "NAME": "BUILDING",
+      "ID":"MSS",
+      "rooms": ["C14","C15","C16","D11","D12","D15"],
+      "position": {
+              "lat": 53.4741938,
+              "lng": -2.2309978
+        }
+      },
+      {
+      "CODE": 17,
+      "NAME": "BUILDING",
+      "ID":"Pariser Building",
+      "rooms": ["B61","C21","E1","G21","G22"],
+      "position": {
+              "lat": 53.4741802,
+              "lng":-2.2339469
+        }
+      },
+      {
+      "CODE": 18,
+      "NAME": "BUILDING",
+      "ID":"Renold Building",
+      "rooms": ["C2","C9","C16","D1","D2","D5","D6","D7","E1","E2","E5","E6","E7","F1","F2","F5","F6","F14","G1","G2","G5","G6","H1","H2","H5","H6","H11","J17"],
+      "position": {
+              "lat": 53.4748933,
+              "lng": -2.2336487
+        }
+      },
+      {
+      "CODE": 19,
+      "NAME": "BUILDING",
+      "ID":"Roscoe Building",
+      "rooms": ["Theatre A","Theatre B","1.001","1.002","1.001","1.002","1.003","1.007","1.008","1.009","1.010","2.2","2.3","2.4","2.5","2.8","2.9","2.10","3.2","3.3","3.4","3.5","4.2","4.3","4.4","4.8"],
+      "position": {
+              "lat": 53.4668701,
+              "lng": -2.2316095
+        }
+      },
+      {
+      "CODE": 20,
+      "NAME": "BUILDING",
+      "ID":"Sackville Street Building",
+      "rooms": ["B Floor Entrance Hall","B4 Council Chamber","C1 Great Hall","C9","C14","C53","D35","D39","F37","F41","F47","G37","G41","H10","J15","K3"],
+      "position": {
+              "lat": 53.4759590,
+              "lng": -2.2349321
+        }
+      },
+      {
+      "CODE": 21,
+      "NAME": "BUILDING",
+      "ID":"Samuel Alexander Building",
+      "rooms": ["Alexander Theatre","A7","A18","A101","A102","A104","A112","A113","A114","A115","A116","A201","A202","A213","A213A","A214","A215","SG.16","SLG.12"],
+      "position": {
+              "lat": 53.4642153, 
+              "lng":-2.2334125
+        }
+      },
+      {
+      "CODE": 22,
+      "NAME": "BUILDING",
+      "ID":"Schuster Building",
+      "rooms":["Blackett Lecture Theatre","Bragg Lecture Theatre","Moseley Lecture Theatre","Rutherford Lecture Theatre"],
+      "position": {
+              "lat": 53.4673076, 
+              "lng": -2.2307187
+        }
+      },
+      {
+      "CODE": 23,
+      "NAME": "BUILDING",
+      "ID":"Simon Building",
+      "rooms":["Theatre A","Theatre B","Theatre C","Theatre D","Theatre E","1.34","2.39","2.60","2.61","3.40","3.44A","3.44B","3.62","4.04","4.05","4.08","4.09","4.10","4.38","4.47","4.50","4.63","5.04","5.05","5.08","5.09"],
+      "position": {
+              "lat": 53.4656735,
+              "lng": -2.2319293
+        }
+      },
+      {
+      "CODE": 24,
+      "NAME": "BUILDING",
+      "ID":"Stephen Joseph Studio",
+      "rooms":["G1","G2","G3","G4","G5","1.1","1.2"],
+      "position": {
+              "lat": 53.4638257,
+              "lng": -2.2343791
+        }
+      },
+      {
+      "CODE": 25,
+      "NAME": "BUILDING",
+      "ID":"Stopford Building",
+      "rooms":["Theatre 1","Theatre 2","Theatre 3","Theatre 4","Theatre 5","Theatre 6"],
+      "position": {
+              "lat": 53.4641703, 
+              "lng": -2.2305417
+        }
+      },
+      {
+      "CODE": 26,
+      "NAME": "BUILDING",
+      "ID":"The Mill",
+      "rooms":["B19","D38"],
+      "position": {
+              "lat": 53.4746545,
+              "lng": -2.2315988
+        }
+      },
+      {
+      "CODE": 27,
+      "NAME": "BUILDING",
+      "ID":"University Place",
+      "rooms":["Theatre A","Theatre B","1.218","1.219","2.217","2.218","2.219","2.220","3.204","3.205","3.209","3.210","3.211","3.212","3.213","3.214","4.204","4.205","4.206","4.207","4.208","4.209","4.210","4.211","4.212","4.213","4.214","5.204","5.205","5.206","5.207","5.209","5.210","5.211","5.212","6.205","4.206","6.207","6.208","6.210","6.211","6.212","6.213"],
+      "position": {
+              "lat": 53.4668580,
+              "lng": -2.2336160
+        }
+      },
+      {
+      "CODE": 28,
+      "NAME": "BUILDING",
+      "ID":"Upper Brook Street",
+      "rooms":["2.002","2.003","2.020","2.25","2.026"],
+      "position": {
+              "lat": 53.4701803,
+              "lng": -2.2337241
+        }
+      },
+      {
+      "CODE": 29,
+      "NAME": "BUILDING",
+      "ID":"Whitworth Building",
+      "rooms":["Committee Room A","Committee Room B","Committee Room C","Committee Room D","Committee Room E","Committee Room F","Committee Room G","Council Chamber","Keepers Room","Whitworth Hall"],
+      "position": {
+              "lat": 53.4658973,
+              "lng": -2.2337288
+        }
+      },
+      {
+      "CODE": 30,
+      "NAME": "BUILDING",
+      "ID":"Williamson Building",
+      "rooms":["2.05","2.06","4.04","G.03","G.33","G47"],
+      "position": {
+              "lat": 53.4664913, 
+              "lng": -2.2326770
+        }
+      },
+      {
+      "CODE": 31,
+      "NAME": "BUILDING",
+      "ID":"Zochonis Building",
+      "rooms":["B22","B23","B24","B25","B26","Theatre A","Theatre B","Theatre C","Theatre D","Lecture Room E"],
+      "position": {
+              "lat": 53.4660295,
+              "lng": -2.2306234
+        }
+      },    
+    {
+      "CODE": 32,
+      "NAME": "RES",
+      "ID": "532 Bar & Kitchen",
+      "PROPERTY ADDRESS": "Manchester M13 9PR",
+      "CITY LIMIT\r": "INSIDE\r",
+      "position": {
+        "lat": 53.465780,
+        "lng": -2.2332527
+      },
+      "rooms": ["Reception", "Main"]
     }
+
   ]
 }
