@@ -169,7 +169,7 @@
               "lat": 53.4741802,
               "lng":-2.2339469
         }
-      },
+      },    
       {
       "CODE": 18,
       "NAME": "BUILDING",
@@ -321,6 +321,36 @@
         "lng": -2.2332527
       },
       "rooms": ["Reception", "Main"]
+    },
+    {
+      "CODE": 33,
+      "NAME": "ACCOMMODATION",
+      "ID":"Victoria Park",
+      "rooms": ["Reception"],
+      "position": {
+              "lat": 53.458373, 
+              "lng":-2.216547
+        }
+    },
+    {
+      "CODE": 34,
+      "NAME": "ENTERTAINING",
+      "ID":"PrintWorks Cinema",
+      "rooms": ["Reception","First Floor","Second Floor"],
+      "position": {
+              "lat": 53.485743,
+              "lng": -2.24027
+        }
+    },
+    {
+      "CODE": 35,
+      "NAME": "ACCOMMODATION",
+      "ID":"Woolton Hall",
+      "rooms": ["Canteen", "Bar", "Cavendish", "Spencer", "Morley", "Lindsay"],
+      "position": {
+              "lat": 53.443433, 
+              "lng": -2.21523
+        }
     }
 
   ]
